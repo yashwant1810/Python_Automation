@@ -34,7 +34,7 @@ To get started with any of the scripts, follow these general steps:
 1. **Clone this repository:**
    
    ```bash
-   git clone https://github.com/yourusername/python-automation.git
+   git clone https://github.com/yashwant1810/Python_Automation.git
 2. Navigate to the script folder:
 
     ```bash
