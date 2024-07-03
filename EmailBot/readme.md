@@ -10,7 +10,9 @@ Welcome to the **Email Bot** script! This script automates the process of forwar
 - **Plug and Run**
 
 ## **Prerequisites**
+
 - Python 3.x
+- Go to your google account and generate an app password for your account (16 bit string)
 - Required Python libraries (watchdog, ssl, mimetypes & certifi)
   ```bash
   pip install watchdog
