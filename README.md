@@ -3,7 +3,7 @@
 Welcome to the Python Automation repository! This repository houses various automation scripts aimed at simplifying and streamlining repetitive tasks. Whether you're looking to automate email forwarding, file management, or web scraping, you'll find useful scripts here.
 
 ## Table of Contents
-- [Email Bot](#email-bot)
+- [Email Bot](#EmailBot)
 - [More to Come](#more-to-come)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
