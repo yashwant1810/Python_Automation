@@ -7,7 +7,7 @@ Welcome to the Python Automation repository! This repository houses various auto
 - [More to Come](#more-to-come)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](https://github.com/yashwant1810/Python_Automation/blob/main/LICENSE)
+- [License](#license)
 
 ## Email Bot
 The **Email Bot** is designed to automate the process of forwarding emails. It's a powerful tool that can save you significant time and effort by managing your email forwarding needs efficiently.
