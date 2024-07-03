@@ -2,6 +2,11 @@
 
 Welcome to the **Email Bot** script! This script automates the process of forwarding emails, making your email management tasks much easier and more efficient. It basically sets up a folder in your device where you can add/drop you files and the script will forward/send them to a defined email for you. 
 
+## **Why did i build this?** 
+
+I was sending my college notes to myself from my mac to my android. This took a lot of time (also it was annoying to draft the mail and send it one by one) and there is no airdrop between mac and android. Whatsapp for Mac needs a huge 100mb+ app to share plus i didnt want to login to my whatsapp everywhere to access my notes. So i built this.
+TLDR : I was lazy and bored. 
+
 
 ## **Features**
 - **Automated Email Forwarding:** Forward emails based on specific criteria.
