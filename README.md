@@ -4,6 +4,7 @@ Welcome to the Python Automation repository! This repository houses various auto
 
 ## Table of Contents
 - [Email Bot](#email-bot)
+- [Youtube Downloader](#youtube-downloader)
 - [More to Come](#more-to-come)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
@@ -19,7 +20,17 @@ The **Email Bot** is designed to automate the process of forwarding emails. It's
   - Cleanup after forwarding
   - Easy to configure and use
 
-For detailed instructions and setup, check the [emailbot README](https://github.com/yashwant1810/Python_Automation/tree/main/EmailBot).
+For detailed instructions and setup, check the [emailbot README](https://github.com/yashwant1810/Python_Automation/blob/1be81af5137fa608a0b958a4688110c701edfdb1/EmailBot/readme.md).
+
+## Youtube Downloader
+A simple Python script to download YouTube videos or audio using the pytube library.
+
+- **Features:**
+  - Forwards content downloaded to scecified directory
+  - Highest Resolution Downloaded
+  - Easy to configure and use
+
+For detailed instructions and setup, check the [youtube downloader README](https://github.com/yashwant1810/Python_Automation/blob/1be81af5137fa608a0b958a4688110c701edfdb1/YouTubeDownloader/readme.md).
 
 ## More to Come
 Stay tuned! I am continuously adding more automation scripts to this repository. Future additions will include:
